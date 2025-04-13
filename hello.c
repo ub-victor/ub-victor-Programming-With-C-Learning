@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main(){
     printf("Hello  World!");
-    retuen 0;
+    return 0;
 }
